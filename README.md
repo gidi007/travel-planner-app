@@ -53,7 +53,7 @@ Open your browser and navigate to http://localhost:3000.
 
 🎨 Screenshots
 Homepage
-![Dashboard ](https://github.com/gidi007/travel-planner-app/tree/main/screenshot/travel planner v1.png)
+![Dashboard ](https://github.com/gidi007/travel-planner-app/blob/main/screenshot/travel%20planner%20v1.png)
 
 
 🏗️ Features in Future Versions (very soon, watch out for updated version)
